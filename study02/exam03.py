@@ -1,6 +1,6 @@
 score = 100
 print('score')
-print(english_score)
+print('english_score')
 '''
 변수의 이름은 직관적인 것을 사용합니다.
 애플에서는 가이드에 변수명을 아무리 길더라도 정확한 단어의 조합으로 제작하길 권장합니다.
@@ -19,14 +19,15 @@ print('나이는'+'23'+'세입니다')
 print('성별은'+'여성입니다')
 print('MBTI는'+'ENTP'+'입니다.')
 print('') #한 줄 띄우기
-print('나의 이름은'   +    name +'입니다.') #문자열과 문자열의 결합은 +기호로 합니다.
+print('나의 이름은'   + name +'입니다.') #문자열과 문자열의 결합은 +기호로 합니다.
 print('나이는'+ age +'세입니다')
 print('성별은'+ gender+'입니다')
 print('MBTI는'+ mbti +'입니다.')
 
 name2 = "이영희" #김철수에서 이영희 값을 변경. (변수는 값이 변할 수 있다)
-
-ㄴ
+age2 = "18"
+gender2 = "여성"
+mbti2 = "istj"
 print('나의 이름은'   +    name +'입니다.') #문자열과 문자열의 결합은 +기호로 합니다.
 print('나이는'+ age +'세입니다')
 print('성별은'+ gender+'입니다')
