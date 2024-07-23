@@ -1,4 +1,4 @@
-print(boolL(0))#fales
+print(bool(0))#fales
 print(bool(1))#true
 print(bool(2))#true
 print(bool(0))#fales
