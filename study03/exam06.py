@@ -12,7 +12,7 @@ print("SBS\n아카데미")
 print(type(single_line))
 print(type(1))
 print(type(1,0))
-print(true) #bool자료형
+print(True) #bool자료형
 print("true") #str자료형
 print("\n")
 
